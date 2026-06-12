@@ -8,7 +8,7 @@ This is a personal archive of Italian university engineering course materials (~
 
 Each course directory contains a subset of: `Prof/`, `Lab/`, `Altro/`, `Software/`, `Datasheet/`, `LaTeX/`, `Relazione/`, `Esercitazioni/`.
 
-Topics are searchable by abbreviation: `eleind` = industrial electronics, `elesdig` = digital systems electronics, `tecir` = circuit theory, `comel` = electrical communications, `compem` = EMC, `ant`/`antprop` = antennas & propagation, `ttmomm` = microwave/mm-wave, `sirad`/`terad` = radar, `ens1`/`fss` = signals & systems, `finf` = computer science, `faut`/`assd` = control systems.
+Topics are searchable by abbreviation: `eleind` = industrial electronics, `elesdig` = digital systems electronics, `tecir` = circuit theory, `comel` = electrical communications, `compem` = EMC, `ant`/`antprop` = antennas & propagation, `ttmomm` = microwave/mm-wave, `sirad`/`terad` = radar, `ens1` = signals & systems, `fss` = fisica dello stato solido, `finf` = computer science, `faut`/`assd` = control systems.
 
 ## File-size awareness
 
